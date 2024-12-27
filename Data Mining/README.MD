@@ -17,7 +17,7 @@ Dataset included 38 attributes with detailed descriptions for understanding the 
 ### Classification Models: ###
 - Implemented five classifiers: Decision Tree, K-Nearest Neighbour (KNN), Random Forest, Support Vector Machine (SVM), and Multi-Layer Perceptron (MLP).
 - Tuned hyperparameters for each model and validated performance using accuracy and ROC-AUC metrics.
-- Random Forest outperformed others with 90.861% accuracy and an AUC of 0.9567.
+- Random Forest outperformed others with **90.861%** accuracy and an AUC of **0.9567**.
 
 ### Insights: ###
 - Emphasised the importance of feature engineering and tailored preprocessing for improving model accuracy.
