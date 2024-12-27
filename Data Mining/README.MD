@@ -1,4 +1,4 @@
-#Predictive Modelling and Classification Project#
+# Predictive Modelling and Classification Project #
 This project involves building and evaluating classifiers to predict the "QUALIFIED" attribute in a real-world dataset. The task required preprocessing, feature engineering, and testing multiple classification models to identify the best-performing classifier. Key highlights:
 
 Dataset:
